@@ -29,7 +29,9 @@ namespace fukuv0525
 
         private void label1_Click(object sender, EventArgs e)
         {
+           
             MessageBox.Show("ç‚ñ{Å@ïj");
+            label1.Visible = false;
         }
     }
 }
